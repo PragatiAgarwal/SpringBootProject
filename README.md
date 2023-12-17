@@ -1,5 +1,5 @@
 # SpringBootProject
-Important Sprint properties : Java Brans : 
+Important Sprint properties : Java Brains : https://www.youtube.com/watch?v=dpgwqStAj3k
 
 Important Spring Annotations : Java Brains :  https://www.youtube.com/watch?v=wf70Hs-aCcI&t=3s
 
